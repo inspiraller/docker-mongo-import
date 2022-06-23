@@ -1,0 +1,8 @@
+{
+  "name": "mongo-import",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "mongo": "cd mongodb && docker-compose --env-file \"../.env\" up"
+  }
+}

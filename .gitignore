@@ -1,0 +1,4 @@
+node_modules
+node-app/dist
+mongodb/db
+.env
